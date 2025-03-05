@@ -6,5 +6,6 @@ Soy estudiante de Ingeniería de Sistemas y Telecomunicaciones en la Universidad
 
 ## Habilidades
 Las siguientes son tecnologías que manejo en mi día a día laboral y con las que he tenido que enfrentar retos importantes que me han llevado a generar análisis de datos importantes:
-
+<br>
+<br>
 <img src="https://github.com/ytoroco/ytoroco/blob/main/tecnologias.png" alt="Descripción" width="70%">
